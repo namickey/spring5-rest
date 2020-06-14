@@ -1,0 +1,17 @@
+.idea/
+.gradle/
+build/
+gradle/
+*.iml
+gradlew
+gradlew.bat
+out/
+/bin/
+/.settings/
+.classpath
+.project
+lombok.config
+start-jetty.sh
+db-start.sh
+docker-compose.yaml
+target/
